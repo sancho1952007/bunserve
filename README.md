@@ -2,6 +2,7 @@
 
 **bunserv** is a lightning-fast, zero-config static file server built with [Bun](https://bun.sh/). It's designed to be the simplest way to serve your files over HTTP with great performance and minimal footprint.
 
+![](./images/preview.png)
 [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)](https://bun.sh)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)]()
